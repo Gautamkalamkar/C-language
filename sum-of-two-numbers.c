@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// This is the main function
 void main()
 {
     int a, b, sum;
