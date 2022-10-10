@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// This is the main function
+// This is the main function which includes addition of two numbers
+
 void main()
 {
     int a, b, sum;
@@ -11,5 +12,5 @@ void main()
     printf("Enter the second number: ");
     scanf("%d", &b);
 
-    printf("The sum of two numbers is %d", (a + b));
+    printf("The sum of two numbers is %d", a + b);
 }
